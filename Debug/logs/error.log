@@ -1,0 +1,38 @@
+2018/10/22 22:35:08 [emerg] 12584#9056: unknown directive "master_processes" in conf/nginx.conf:3
+2018/10/22 22:35:54 [emerg] 3552#5264: unknown directive "worker_process" in conf/nginx.conf:2
+2018/10/23 23:15:56 [error] 9964#5268: *1 flv live: no on_play or relay pull, quit, client: 127.0.0.1, server: 0.0.0.0:1935
+2018/10/23 23:15:56 [error] 9964#5268: *2 CreateFile() "www/favicon.ico" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2018/10/23 23:16:10 [error] 9964#5268: *2 flv live: no on_play or relay pull, quit, client: 127.0.0.1, server: 0.0.0.0:1935
+2018/10/23 23:20:56 [error] 9964#5268: *10 flv live: no on_play or relay pull, quit, client: 127.0.0.1, server: 0.0.0.0:1935
+2018/10/23 23:30:11 [error] 6000#14068: *1 flv live: no on_play or relay pull, quit, client: 127.0.0.1, server: 0.0.0.0:1935
+2018/10/24 07:46:49 [error] 12732#9844: *2 flv live: no on_play or relay pull, quit, client: 127.0.0.1, server: 0.0.0.0:1935
+2018/10/24 07:46:49 [error] 12732#9844: *3 CreateFile() "www/favicon.ico" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2018/10/24 20:44:46 [error] 13468#3380: *2 flv live: no on_play or relay pull, quit, client: 127.0.0.1, server: 0.0.0.0:1935
+2018/10/24 20:49:45 [error] 13468#3380: *4 flv live: no on_play or relay pull, quit, client: 127.0.0.1, server: 0.0.0.0:1935
+2018/10/24 20:49:45 [error] 13468#3380: *5 CreateFile() "www/favicon.ico" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2018/10/24 20:54:16 [error] 13468#3380: *8 "www/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "127.0.0.1"
+2018/10/24 20:54:29 [error] 13468#3380: *8 "www/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "127.0.0.1"
+2018/10/24 20:55:25 [error] 9144#12228: *1 "www/index.html" is not found (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "127.0.0.1"
+2018/10/24 20:55:27 [error] 9144#12228: *1 CreateFile() "www/favicon.ico" failed (3: The system cannot find the path specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2018/10/24 20:56:13 [error] 9144#12228: *1 flv live: no on_play or relay pull, quit, client: 127.0.0.1, server: 0.0.0.0:1935
+2018/10/24 20:57:07 [error] 9144#12228: *4 flv live: no on_play or relay pull, quit, client: 127.0.0.1, server: 0.0.0.0:1935
+2018/10/24 20:57:07 [error] 9144#12228: *5 CreateFile() "www/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "127.0.0.1", referrer: "http://127.0.0.1/"
+2018/10/24 20:57:21 [error] 9144#12228: *5 flv live: no on_play or relay pull, quit, client: 127.0.0.1, server: 0.0.0.0:1935
+2018/10/24 20:57:28 [error] 9144#12228: *6 flv live: no on_play or relay pull, quit, client: 127.0.0.1, server: 0.0.0.0:1935
+2018/10/24 21:16:01 [error] 9144#12228: *10 flv live: no on_play or relay pull, quit, client: 127.0.0.1, server: 0.0.0.0:1935
+2018/10/24 22:22:46 [error] 9160#10448: *4 live: already publishing, client: 127.0.0.1, server: 0.0.0.0:1935
+2018/10/24 23:48:48 [error] 13492#16536: *1 flv live: no on_play or relay pull, quit, client: 127.0.0.1, server: 0.0.0.0:1935
+2018/10/25 20:37:12 [error] 16312#10004: *2 flv live: no on_play or relay pull, quit, client: 127.0.0.1, server: 0.0.0.0:1935
+2018/10/25 20:38:36 [error] 16312#10004: *3 flv live: client timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond), client: 127.0.0.1, server: 0.0.0.0:1935
+2018/10/25 20:38:41 [error] 16312#10004: *4 flv live: client timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond), client: 127.0.0.1, server: 0.0.0.0:1935
+2018/10/25 22:00:18 [error] 16312#10004: *7 flv live: client timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond), client: 127.0.0.1, server: 0.0.0.0:1935
+2018/10/25 22:34:07 [error] 16312#10004: *9 flv live: no on_play or relay pull, quit, client: 127.0.0.1, server: 0.0.0.0:1935
+2018/10/25 22:34:12 [error] 16312#10004: *10 flv live: no on_play or relay pull, quit, client: 127.0.0.1, server: 0.0.0.0:1935
+2018/10/31 08:20:27 [error] 1212#8212: *2 flv live: no on_play or relay pull, quit, client: 127.0.0.1, server: 0.0.0.0:1935
+2018/10/31 08:22:01 [error] 1212#8212: *3 flv live: client timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond), client: 127.0.0.1, server: 0.0.0.0:1935
+2018/10/31 08:23:24 [error] 1212#8212: *4 flv live: client timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond), client: 127.0.0.1, server: 0.0.0.0:1935
+2018/10/31 08:28:11 [error] 1212#8212: *6 flv live: client timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond), client: 127.0.0.1, server: 0.0.0.0:1935
+2018/10/31 08:33:30 [error] 1212#8212: *8 flv live: client timed out (10060: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond), client: 127.0.0.1, server: 0.0.0.0:1935
+2018/11/07 00:21:36 [error] 14860#14796: *2 flv live: no on_play or relay pull, quit, client: 127.0.0.1, server: 0.0.0.0:1935
+2018/11/07 00:21:53 [error] 14860#14796: *3 flv live: no on_play or relay pull, quit, client: 127.0.0.1, server: 0.0.0.0:1935
+2018/11/07 00:22:12 [error] 14860#14796: *4 flv live: no on_play or relay pull, quit, client: 127.0.0.1, server: 0.0.0.0:1935
