@@ -1,4 +1,10 @@
 Nginx 1.9.9 build on win32 platform by VS2015
 
 Documentation is available at http://nginx.org
-
+http-flv-module at https://github.com/winshining/nginx-http-flv-module
+----------------------------------------------------------------------
+该工程功能运行正常。原先在Linux下编译运行。
+我修改至vs2015 下可以编译运行、调试，学习nginx 和http-flv 相关的知识。
+tools 目录下有demo 视频 运行bat 可以向nginx 发布rtmp流，然后用浏览器访问http://127.0.0.1 
+打开网页播放器 输入播放地址 http://127.0.0.1/live?app=demo&stream=ccc 即可播放视频。
+该视频播放器需要浏览器支持 MSE 接口才能正常工作(Google Chrome,firfox,Microsoft Edge均支持)
